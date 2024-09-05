@@ -76,3 +76,15 @@ Technologies used in the project:
 *   Sensor
 *   Breadboard
 *   Jumper cables
+
+<h2>💡 With a few adjustments, this project can also be done with the following cards.</h2>
+
+*   Arduino Nano
+*   STM32 Series
+*   Raspberry Pi Pico
+*   Teensy
+*   nRF52840
+*   ESP8266
+*   ESP32
+*   Adafruit Feather RP2040
+*   SparkFun RP2040 Thing Plus
