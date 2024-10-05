@@ -39,7 +39,7 @@ Arduinojson - DeneyapTelegram - UniversalTelegramBot - Deneyap Arduino Examples 
 <p>6. Required Components</p>
 
 ```
-Deneyap Kart 1A v2 - Deneyap Sıcaklık Nem Basınç Ölçer - Devre Tahtası - Jumper Kablolar
+Deneyap Card 1A v2 - Deneyap Temperature Humidity Pressure Sensor - Breadboard - Jumper Cables
 ```
 
 <p>7. Attach your card and sensor to the breadboard.</p>
