@@ -1,8 +1,8 @@
-<h1 align="center" id="title">Weather Station with Deneyap Kart 1A v2 and Deneyap Temperature Pressure Humidity Sensor</h1>
+<h1 align="center" id="title">Weather Station with Deneyap Card 1A v2 and Deneyap Temperature Pressure Humidity Sensor</h1>
 
 <p align="center"><img src="https://socialify.git.ci/qrumpy/Weather-Station-with-Deneyap-Card-1A-v2-and-Deneyap-Temperature-Pressure-Humidity-Sensor/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
 
-<p id="description">This project is a weather station made with Deneyap Kart 1A v2 and Deneyap Temperature Pressure Humidity Sensor. The data is shown on the website and telegram bot.</p><br>
+<p id="description">This project is a weather station made with Deneyap Card 1A v2 and Deneyap Temperature Pressure Humidity Sensor. The data is shown on the website and telegram bot.</p><br>
 
 <h2>Project Screenshots:</h2>
 
